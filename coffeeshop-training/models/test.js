@@ -8,14 +8,10 @@ var TestSchema = new Schema(
     q1: {type: String, required: true},
     q2: {type: String, required: true},
     q3: {type: String, required: true},
-    q4: {type: String, required: true},
-    q5: {type: String, required: true},
     a1: {type: Integer, required: true},
     a2: {type: Integer, required: true},
     a3: {type: Integer, required: true},
-    a4: {type: Integer, required: true},
-    a5: {type: Integer, required: true},
-    score: {type: String, required: true},
+    maxscore: {type: Integer, required: true},
     }
 );
 
