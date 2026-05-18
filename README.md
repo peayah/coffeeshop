@@ -1,1 +1,1 @@
-# coffeeshop
+# coffeeshop training planner
